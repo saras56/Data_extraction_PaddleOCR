@@ -1,0 +1,4 @@
+pytesseract
+paddleocr
+pydantic
+ipykernel
